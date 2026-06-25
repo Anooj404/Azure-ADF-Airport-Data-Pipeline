@@ -1,0 +1,101 @@
+StaffID,Name,Department,Shift,Airport
+S001,Staff_1,Security,Evening,Chennai
+S002,Staff_2,Security,Evening,Chennai
+S003,Staff_3,ATC Support,Evening,Chennai
+S004,Staff_4,Check-in,Morning,Chennai
+S005,Staff_5,Security,Morning,Chennai
+S006,Staff_6,Check-in,Night,Chennai
+S007,Staff_7,Ground Ops,Morning,Chennai
+S008,Staff_8,Baggage,Morning,Chennai
+S009,Staff_9,Ground Ops,Evening,Chennai
+S010,Staff_10,Baggage,Evening,Chennai
+S011,Staff_11,Ground Ops,Morning,Chennai
+S012,Staff_12,ATC Support,Evening,Chennai
+S013,Staff_13,Check-in,Evening,Chennai
+S014,Staff_14,Baggage,Evening,Chennai
+S015,Staff_15,Check-in,Evening,Chennai
+S016,Staff_16,Security,Evening,Chennai
+S017,Staff_17,Baggage,Evening,Chennai
+S018,Staff_18,Ground Ops,Morning,Chennai
+S019,Staff_19,Ground Ops,Night,Chennai
+S020,Staff_20,Security,Morning,Chennai
+S021,Staff_21,Security,Morning,Chennai
+S022,Staff_22,Ground Ops,Night,Chennai
+S023,Staff_23,Baggage,Night,Chennai
+S024,Staff_24,Check-in,Night,Chennai
+S025,Staff_25,Security,Evening,Chennai
+S026,Staff_26,ATC Support,Evening,Chennai
+S027,Staff_27,ATC Support,Night,Chennai
+S028,Staff_28,Baggage,Night,Chennai
+S029,Staff_29,Check-in,Evening,Chennai
+S030,Staff_30,Ground Ops,Morning,Chennai
+S031,Staff_31,Baggage,Night,Chennai
+S032,Staff_32,Security,Night,Chennai
+S033,Staff_33,ATC Support,Night,Chennai
+S034,Staff_34,ATC Support,Night,Chennai
+S035,Staff_35,ATC Support,Morning,Chennai
+S036,Staff_36,Security,Evening,Chennai
+S037,Staff_37,Check-in,Morning,Chennai
+S038,Staff_38,Check-in,Morning,Chennai
+S039,Staff_39,Check-in,Morning,Chennai
+S040,Staff_40,Baggage,Morning,Chennai
+S041,Staff_41,Baggage,Morning,Chennai
+S042,Staff_42,Check-in,Night,Chennai
+S043,Staff_43,Ground Ops,Evening,Chennai
+S044,Staff_44,Security,Morning,Chennai
+S045,Staff_45,Baggage,Night,Chennai
+S046,Staff_46,Baggage,Night,Chennai
+S047,Staff_47,Ground Ops,Evening,Chennai
+S048,Staff_48,ATC Support,Evening,Chennai
+S049,Staff_49,Security,Night,Chennai
+S050,Staff_50,ATC Support,Night,Chennai
+S051,Staff_51,ATC Support,Evening,Chennai
+S052,Staff_52,Security,Evening,Chennai
+S053,Staff_53,Check-in,Morning,Chennai
+S054,Staff_54,ATC Support,Night,Chennai
+S055,Staff_55,ATC Support,Morning,Chennai
+S056,Staff_56,Security,Night,Chennai
+S057,Staff_57,Security,Evening,Chennai
+S058,Staff_58,ATC Support,Evening,Chennai
+S059,Staff_59,Baggage,Evening,Chennai
+S060,Staff_60,Baggage,Night,Chennai
+S061,Staff_61,Baggage,Night,Chennai
+S062,Staff_62,ATC Support,Evening,Chennai
+S063,Staff_63,Security,Morning,Chennai
+S064,Staff_64,Ground Ops,Evening,Chennai
+S065,Staff_65,Check-in,Night,Chennai
+S066,Staff_66,ATC Support,Night,Chennai
+S067,Staff_67,Baggage,Morning,Chennai
+S068,Staff_68,Baggage,Evening,Chennai
+S069,Staff_69,Check-in,Morning,Chennai
+S070,Staff_70,Baggage,Evening,Chennai
+S071,Staff_71,Ground Ops,Morning,Chennai
+S072,Staff_72,Ground Ops,Evening,Chennai
+S073,Staff_73,Ground Ops,Evening,Chennai
+S074,Staff_74,Baggage,Night,Chennai
+S075,Staff_75,Security,Morning,Chennai
+S076,Staff_76,Check-in,Evening,Chennai
+S077,Staff_77,Baggage,Evening,Chennai
+S078,Staff_78,Ground Ops,Night,Chennai
+S079,Staff_79,Baggage,Night,Chennai
+S080,Staff_80,Security,Morning,Chennai
+S081,Staff_81,Baggage,Morning,Chennai
+S082,Staff_82,Baggage,Night,Chennai
+S083,Staff_83,Baggage,Night,Chennai
+S084,Staff_84,Ground Ops,Morning,Chennai
+S085,Staff_85,ATC Support,Morning,Chennai
+S086,Staff_86,Security,Evening,Chennai
+S087,Staff_87,ATC Support,Evening,Chennai
+S088,Staff_88,Check-in,Night,Chennai
+S089,Staff_89,ATC Support,Morning,Chennai
+S090,Staff_90,Check-in,Morning,Chennai
+S091,Staff_91,Check-in,Morning,Chennai
+S092,Staff_92,Check-in,Morning,Chennai
+S093,Staff_93,Baggage,Morning,Chennai
+S094,Staff_94,Ground Ops,Night,Chennai
+S095,Staff_95,Check-in,Evening,Chennai
+S096,Staff_96,Ground Ops,Evening,Chennai
+S097,Staff_97,ATC Support,Evening,Chennai
+S098,Staff_98,Security,Night,Chennai
+S099,Staff_99,Security,Morning,Chennai
+S100,Staff_100,Ground Ops,Evening,Chennai

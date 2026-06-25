@@ -1,0 +1,101 @@
+FlightID,FlightNumber,Airline,DepartureAirport,ArrivalAirport,DepartureTime,ArrivalTime,Status
+1,AI201,Air India,Chennai,Kolkata,06:30,08:00,Delayed
+2,6E202,IndiGo,Delhi,Mumbai,07:00,08:30,Boarding
+3,AI203,Air India,Kochi,Kolkata,07:30,09:00,Boarding
+4,AI204,Air India,Hyderabad,Bengaluru,08:00,09:30,On Time
+5,AI205,Air India,Chennai,Mumbai,08:30,10:00,On Time
+6,SG206,SpiceJet,Hyderabad,Chennai,09:00,10:30,Boarding
+7,6E207,IndiGo,Kochi,Kolkata,09:30,11:00,Boarding
+8,SG208,SpiceJet,Bengaluru,Delhi,10:00,11:30,Delayed
+9,SG209,SpiceJet,Mumbai,Chennai,10:30,12:00,On Time
+10,QP210,Akasa Air,Mumbai,Bengaluru,11:00,12:30,On Time
+11,6E211,IndiGo,Kolkata,Mumbai,11:30,13:00,On Time
+12,AI212,Air India,Bengaluru,Chennai,12:00,13:30,Delayed
+13,UK213,Vistara,Hyderabad,Mumbai,12:30,14:00,On Time
+14,QP214,Akasa Air,Hyderabad,Chennai,13:00,14:30,Delayed
+15,AI215,Air India,Hyderabad,Mumbai,13:30,15:00,Boarding
+16,SG216,SpiceJet,Kolkata,Mumbai,14:00,15:30,Boarding
+17,6E217,IndiGo,Kochi,Chennai,14:30,16:00,On Time
+18,6E218,IndiGo,Kolkata,Mumbai,15:00,16:30,On Time
+19,6E219,IndiGo,Kolkata,Chennai,15:30,17:00,Delayed
+20,UK220,Vistara,Bengaluru,Kolkata,16:00,17:30,Delayed
+21,6E221,IndiGo,Mumbai,Bengaluru,16:30,18:00,On Time
+22,UK222,Vistara,Kochi,Kolkata,17:00,18:30,Boarding
+23,AI223,Air India,Hyderabad,Kolkata,17:30,19:00,On Time
+24,SG224,SpiceJet,Kochi,Delhi,18:00,19:30,On Time
+25,QP225,Akasa Air,Bengaluru,Mumbai,18:30,20:00,Boarding
+26,SG226,SpiceJet,Delhi,Kolkata,19:00,20:30,Delayed
+27,AI227,Air India,Delhi,Chennai,19:30,21:00,Delayed
+28,QP228,Akasa Air,Mumbai,Chennai,20:00,21:30,On Time
+29,SG229,SpiceJet,Kochi,Mumbai,20:30,22:00,On Time
+30,QP230,Akasa Air,Bengaluru,Kolkata,21:00,22:30,Delayed
+31,6E231,IndiGo,Mumbai,Delhi,21:30,23:00,On Time
+32,SG232,SpiceJet,Hyderabad,Mumbai,22:00,23:30,Boarding
+33,SG233,SpiceJet,Bengaluru,Kochi,22:30,00:00,Delayed
+34,UK234,Vistara,Delhi,Mumbai,23:00,00:30,Boarding
+35,QP235,Akasa Air,Chennai,Delhi,23:30,01:00,On Time
+36,6E236,IndiGo,Kochi,Delhi,00:00,01:30,Boarding
+37,QP237,Akasa Air,Hyderabad,Chennai,00:30,02:00,Delayed
+38,QP238,Akasa Air,Hyderabad,Bengaluru,01:00,02:30,Boarding
+39,UK239,Vistara,Hyderabad,Chennai,01:30,03:00,Boarding
+40,AI240,Air India,Kochi,Hyderabad,02:00,03:30,Delayed
+41,UK241,Vistara,Chennai,Bengaluru,02:30,04:00,Delayed
+42,6E242,IndiGo,Bengaluru,Chennai,03:00,04:30,Boarding
+43,UK243,Vistara,Hyderabad,Delhi,03:30,05:00,Boarding
+44,AI244,Air India,Kolkata,Kochi,04:00,05:30,Delayed
+45,SG245,SpiceJet,Hyderabad,Delhi,04:30,06:00,On Time
+46,UK246,Vistara,Kolkata,Delhi,05:00,06:30,Boarding
+47,SG247,SpiceJet,Chennai,Kochi,05:30,07:00,Delayed
+48,QP248,Akasa Air,Chennai,Delhi,06:00,07:30,Delayed
+49,UK249,Vistara,Delhi,Chennai,06:30,08:00,On Time
+50,SG250,SpiceJet,Chennai,Delhi,07:00,08:30,Boarding
+51,QP251,Akasa Air,Kolkata,Chennai,07:30,09:00,Boarding
+52,6E252,IndiGo,Delhi,Kolkata,08:00,09:30,Delayed
+53,SG253,SpiceJet,Delhi,Bengaluru,08:30,10:00,Boarding
+54,SG254,SpiceJet,Bengaluru,Delhi,09:00,10:30,Boarding
+55,6E255,IndiGo,Kochi,Mumbai,09:30,11:00,Delayed
+56,UK256,Vistara,Bengaluru,Kochi,10:00,11:30,Delayed
+57,AI257,Air India,Delhi,Mumbai,10:30,12:00,On Time
+58,UK258,Vistara,Chennai,Kochi,11:00,12:30,Boarding
+59,6E259,IndiGo,Hyderabad,Delhi,11:30,13:00,On Time
+60,AI260,Air India,Kochi,Kolkata,12:00,13:30,On Time
+61,6E261,IndiGo,Chennai,Delhi,12:30,14:00,Delayed
+62,AI262,Air India,Hyderabad,Delhi,13:00,14:30,Delayed
+63,QP263,Akasa Air,Delhi,Kochi,13:30,15:00,On Time
+64,SG264,SpiceJet,Hyderabad,Bengaluru,14:00,15:30,On Time
+65,QP265,Akasa Air,Kolkata,Bengaluru,14:30,16:00,On Time
+66,AI266,Air India,Chennai,Kolkata,15:00,16:30,Delayed
+67,UK267,Vistara,Bengaluru,Hyderabad,15:30,17:00,Delayed
+68,AI268,Air India,Kochi,Kolkata,16:00,17:30,Boarding
+69,AI269,Air India,Chennai,Hyderabad,16:30,18:00,Boarding
+70,UK270,Vistara,Kolkata,Chennai,17:00,18:30,On Time
+71,6E271,IndiGo,Delhi,Kochi,17:30,19:00,Delayed
+72,6E272,IndiGo,Bengaluru,Delhi,18:00,19:30,Delayed
+73,QP273,Akasa Air,Delhi,Chennai,18:30,20:00,Delayed
+74,SG274,SpiceJet,Chennai,Delhi,19:00,20:30,Boarding
+75,SG275,SpiceJet,Kolkata,Chennai,19:30,21:00,On Time
+76,6E276,IndiGo,Delhi,Hyderabad,20:00,21:30,Delayed
+77,QP277,Akasa Air,Delhi,Hyderabad,20:30,22:00,On Time
+78,6E278,IndiGo,Bengaluru,Chennai,21:00,22:30,Delayed
+79,UK279,Vistara,Kolkata,Bengaluru,21:30,23:00,Delayed
+80,QP280,Akasa Air,Kochi,Kolkata,22:00,23:30,Boarding
+81,QP281,Akasa Air,Delhi,Mumbai,22:30,00:00,Delayed
+82,6E282,IndiGo,Chennai,Kochi,23:00,00:30,Boarding
+83,SG283,SpiceJet,Chennai,Kolkata,23:30,01:00,Delayed
+84,AI284,Air India,Chennai,Kochi,00:00,01:30,Delayed
+85,SG285,SpiceJet,Kolkata,Hyderabad,00:30,02:00,On Time
+86,AI286,Air India,Hyderabad,Chennai,01:00,02:30,On Time
+87,AI287,Air India,Hyderabad,Chennai,01:30,03:00,Boarding
+88,6E288,IndiGo,Bengaluru,Chennai,02:00,03:30,Boarding
+89,6E289,IndiGo,Hyderabad,Kochi,02:30,04:00,On Time
+90,SG290,SpiceJet,Chennai,Hyderabad,03:00,04:30,Boarding
+91,SG291,SpiceJet,Hyderabad,Kochi,03:30,05:00,Delayed
+92,UK292,Vistara,Delhi,Kolkata,04:00,05:30,Boarding
+93,UK293,Vistara,Delhi,Bengaluru,04:30,06:00,Delayed
+94,6E294,IndiGo,Kochi,Kolkata,05:00,06:30,Delayed
+95,QP295,Akasa Air,Mumbai,Chennai,05:30,07:00,On Time
+96,QP296,Akasa Air,Hyderabad,Kochi,06:00,07:30,On Time
+97,AI297,Air India,Hyderabad,Delhi,06:30,08:00,Boarding
+98,UK298,Vistara,Delhi,Bengaluru,07:00,08:30,On Time
+99,6E299,IndiGo,Mumbai,Bengaluru,07:30,09:00,On Time
+100,QP300,Akasa Air,Kolkata,Hyderabad,08:00,09:30,Boarding
