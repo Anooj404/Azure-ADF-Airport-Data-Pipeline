@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "factoryName": {
+            "value": "airportprojectdf"
+        },
+        "ls_Airport_datakale_accountKey": {
+            "value": ""
+        },
+        "ls_Airport_datakale_properties_typeProperties_url": {
+            "value": "https://airportfilestorage.dfs.core.windows.net/"
+        },
+        "trigger_properties_typeProperties_scope": {
+            "value": "/subscriptions/a6a75e4e-2ae1-4e69-a79c-7855864d2a67/resourceGroups/ADF_project/providers/Microsoft.Storage/storageAccounts/airportfilestorage"
+        }
+    }
+}
